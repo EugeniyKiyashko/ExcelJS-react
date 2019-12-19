@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/exceljs-react/static/css/main.b4fe0382.chunk.css",
-    "main.js": "/exceljs-react/static/js/main.4f34c872.chunk.js",
-    "main.js.map": "/exceljs-react/static/js/main.4f34c872.chunk.js.map",
-    "runtime-main.js": "/exceljs-react/static/js/runtime-main.ae293a54.js",
-    "runtime-main.js.map": "/exceljs-react/static/js/runtime-main.ae293a54.js.map",
-    "static/css/2.c2635046.chunk.css": "/exceljs-react/static/css/2.c2635046.chunk.css",
-    "static/js/2.b2111b16.chunk.js": "/exceljs-react/static/js/2.b2111b16.chunk.js",
-    "static/js/2.b2111b16.chunk.js.map": "/exceljs-react/static/js/2.b2111b16.chunk.js.map",
-    "index.html": "/exceljs-react/index.html",
-    "precache-manifest.cf809ca6dc2fd861e77bbbe1fcebc3a6.js": "/exceljs-react/precache-manifest.cf809ca6dc2fd861e77bbbe1fcebc3a6.js",
-    "service-worker.js": "/exceljs-react/service-worker.js",
-    "static/css/2.c2635046.chunk.css.map": "/exceljs-react/static/css/2.c2635046.chunk.css.map",
-    "static/css/main.b4fe0382.chunk.css.map": "/exceljs-react/static/css/main.b4fe0382.chunk.css.map",
-    "static/js/2.b2111b16.chunk.js.LICENSE": "/exceljs-react/static/js/2.b2111b16.chunk.js.LICENSE",
-    "static/media/theme.additional.css": "/exceljs-react/static/media/dxiconsmaterial.ade00e8f.ttf"
+    "main.css": "/ExcelJS-react/static/css/main.d9da8341.chunk.css",
+    "main.js": "/ExcelJS-react/static/js/main.57b069c5.chunk.js",
+    "main.js.map": "/ExcelJS-react/static/js/main.57b069c5.chunk.js.map",
+    "runtime-main.js": "/ExcelJS-react/static/js/runtime-main.78816d7a.js",
+    "runtime-main.js.map": "/ExcelJS-react/static/js/runtime-main.78816d7a.js.map",
+    "static/css/2.c2635046.chunk.css": "/ExcelJS-react/static/css/2.c2635046.chunk.css",
+    "static/js/2.b2111b16.chunk.js": "/ExcelJS-react/static/js/2.b2111b16.chunk.js",
+    "static/js/2.b2111b16.chunk.js.map": "/ExcelJS-react/static/js/2.b2111b16.chunk.js.map",
+    "index.html": "/ExcelJS-react/index.html",
+    "precache-manifest.a96544301ceb217c4e248a33f7f14ee1.js": "/ExcelJS-react/precache-manifest.a96544301ceb217c4e248a33f7f14ee1.js",
+    "service-worker.js": "/ExcelJS-react/service-worker.js",
+    "static/css/2.c2635046.chunk.css.map": "/ExcelJS-react/static/css/2.c2635046.chunk.css.map",
+    "static/css/main.d9da8341.chunk.css.map": "/ExcelJS-react/static/css/main.d9da8341.chunk.css.map",
+    "static/js/2.b2111b16.chunk.js.LICENSE": "/ExcelJS-react/static/js/2.b2111b16.chunk.js.LICENSE",
+    "static/media/theme.additional.css": "/ExcelJS-react/static/media/dxiconsmaterial.ade00e8f.ttf"
   },
   "entrypoints": [
-    "static/js/runtime-main.ae293a54.js",
+    "static/js/runtime-main.78816d7a.js",
     "static/css/2.c2635046.chunk.css",
     "static/js/2.b2111b16.chunk.js",
-    "static/css/main.b4fe0382.chunk.css",
-    "static/js/main.4f34c872.chunk.js"
+    "static/css/main.d9da8341.chunk.css",
+    "static/js/main.57b069c5.chunk.js"
   ]
 }
